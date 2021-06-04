@@ -1,3 +1,0 @@
-
-## Project Name ##
-Bag seller
